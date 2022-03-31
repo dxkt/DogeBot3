@@ -2868,7 +2868,7 @@ case 'script':
 case 'sourcode':
 
 scpic = fs.readFileSync('./media/scpic.jpg')
-scsell = `*🐶𝗗𝗼𝗴𝗲 𝗕𝗼𝘁 𝗩𝟯 𝗦𝗰𝗿𝗶𝗽𝘁🐶*\n\n_• 𝒀𝒐𝒖𝑻𝒖𝒃𝒆: https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A_\n_• 𝑮𝒊𝒕𝑯𝒖𝒃: https://github.com/DGXeon/DogeBot3_\n\n_𝙄𝙛 𝙮𝙤𝙪 𝙬𝙞𝙨𝙝 𝙩𝙤 𝙗𝙪𝙮 𝙪𝙣𝙚𝙣𝙘𝙧𝙮𝙥𝙩𝙚𝙙 𝙨𝙘𝙧𝙞𝙥𝙩 𝙘𝙡𝙞𝙘𝙠 𝙤𝙣 𝙩𝙝𝙚 𝙗𝙪𝙮 𝙨𝙘𝙧𝙞𝙥𝙩 𝙗𝙪𝙩𝙩𝙤𝙣 𝙗𝙚𝙡𝙤𝙬._`
+scsell = `*🐶𝗗𝗼𝗴𝗲 𝗕𝗼𝘁 𝗩𝟯 𝗦𝗰𝗿𝗶𝗽𝘁 By Deepak🐶*\n\n_• 𝒀𝒐𝒖𝑻𝒖𝒃𝒆: https://youtube.com/channel/UCmI5wn_THTntx58EookLwUw\n_• 𝑮𝒊𝒕𝑯𝒖𝒃: https://github.com/DGDEEPAK/DogeBot3_\n\n_𝙄𝙛 𝙮𝙤𝙪 𝙬𝙞𝙨𝙝 𝙩𝙤 𝙗𝙪𝙮 𝙪𝙣𝙚𝙣𝙘𝙧𝙮𝙥𝙩𝙚𝙙 𝙨𝙘𝙧𝙞𝙥𝙩 𝙘𝙡𝙞𝙘𝙠 𝙤𝙣 𝙩𝙝𝙚 𝙗𝙪𝙮 𝙨𝙘𝙧𝙞𝙥𝙩 𝙗𝙪𝙩𝙩𝙤𝙣 𝙗𝙚𝙡𝙤𝙬._`
 but = [
 { buttonId: `${prefix}rentbot`, buttonText: { displayText: 'BUY SCRIPT 💵' }, type: 1 },
 { buttonId: `${prefix}developer`, buttonText: { displayText: 'DEVELOPER 👨🏼‍💻' }, type: 1 }
@@ -3838,7 +3838,7 @@ watak = body.slice(1)
     "call crush/pickle now and send ss",
     "drop only emote every time you type on gc/pc for 1 day.",
     "say Welcome to Who Wants To Be a Millionaire! to all the groups you have",
-    "call ex saying miss",
+    "Say I Love You To Deepak",
     "sing the chorus of the last song you played",
     "vn your ex/crush/girlfriend, says hi (name), wants to call, just a moment. I miss🥺👉🏼👈🏼",
 	"Bang on the table (which is at home) until you get scolded for being noisy",
@@ -3892,7 +3892,7 @@ watak = body.slice(1)
     "use any bollywood actor photo as ur pfp for 3 days",
     "put your crush photo on status with caption, this is my crush",
     "change name to I AM GAY for 5 hours",
-    "chat to any contact in whatsapp and say i will be ur bf/gf for 5hours",
+    "chat to Deepak in whatsapp and say i will be ur bf/gf for 5hours",
     "send voice note says i hv crush on you, want to be my girlfriend/boyfriend or not? to any random person from the grup(if u girl choose boy, if boy choose girl",
     "slap ur butt hardly send the sound of slap through voice note😂",
     "state ur gf/bf type and send the photo here with caption, ugliest girl/boy in the world",
@@ -3908,11 +3908,11 @@ watak = body.slice(1)
     "make any tiktok dance challenge video and put it on status, u can delete it after 5hrs",
     "breakup with your best friend for 5hrs without telling him/her that its a dare",
      "tell one of your frnd that u love him/her and wanna marry him/her, without telling him/her that its a dare",
-     "say i love depak kalal through voice note",
+     "say i love deepak through voice note",
      "write i am feeling horny and put it on status, u can delete it only after 5hrs",
      "write i am lesbian and put it on status, u can delete only after 5hrs",
      "kiss your mommy or papa and say i love you😌",
-     "put your father name on status for 5hrs",
+     "Write I love You Deepak on status for 5hrs",
      "send abusive words in any grup, excepting this grup, and send screenshot proof here"
 ]
               const der = dare[Math.floor(Math.random() * dare.length)]
