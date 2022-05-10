@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/doraemon-nabita-tour-gif" alt="animated" />
+  <img src="https://tenor.com/bcn9l.gif" alt="animated" />
 </p>
 
 <p align="center">
